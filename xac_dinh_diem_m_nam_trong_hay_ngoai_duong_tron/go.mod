@@ -1,0 +1,3 @@
+module xac_dinh_diem_m_nam_trong_hay_ngoai_duong_tron
+
+go 1.18
